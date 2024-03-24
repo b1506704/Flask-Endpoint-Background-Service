@@ -1,2 +1,12 @@
-Flask==2.2.5
-Flask-SocketIO==5.1.1
+Flask-SocketIO==4.3.1
+python-engineio==3.13.2
+python-socketio==4.6.0
+Flask==2.0.3
+Werkzeug==2.0.3
+numpy==1.24.3
+openai-whisper==20230314
+Wave==0.0.2
+openai
+PyAudioWPatch==0.2.12.5
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
